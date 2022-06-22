@@ -7,7 +7,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ HTML5 / CSS3 / Tailwind / Bootstrap <br>
 ✅ JavaScript <br>
 ✅ ReactJS <br>
-✅ NodeJS / Mongodb / NextJS
+✅ NodeJS / Mongodb / NextJS <br>
 ✅ Firebase / Netlify /Heroku /Figma
 
 
