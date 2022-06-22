@@ -1,12 +1,12 @@
 ### Hi there 👋, I'am Zannatul Binta Bahar
 #### Front-end Web Developer
+
 ![Profile views](https://gpvc.arturio.dev/zannatreya) 
 
-## 🚀 About Me
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
 
 - 🌱 I’m currently learning NextJs 
 - 👯 I’m looking to collaborate on  open source projects. 
+
 
 ## 👨‍💻 Skills: 
 ✅ HTML5 / CSS3 / Tailwind / Bootstrap <br>
@@ -33,7 +33,7 @@ Mongodb         30 mins          ░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-If you like what I do, take a look at my <a href="[https://drive.google.com/file/d/1BtQgJNlW5fOB_iDw9z76y3BhW4lPBz6F/view?usp=sharing](https://drive.google.com/file/d/1yB4F9fkHXxfDM1h9TV5MqoV-waIbCqBU/view?usp=sharing)" target="_blank">Resume</a>
+If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1yB4F9fkHXxfDM1h9TV5MqoV-waIbCqBU/view?usp=sharing" target="_blank">Resume</a>
 
 
 
