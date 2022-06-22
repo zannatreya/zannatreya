@@ -20,16 +20,9 @@
 
 ## ☕ Connect with me!
 
-<a href="https://github.com/zannatreya">
-  <img align="left" alt="Protfolio" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/github.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/zannatul-binta-bahar/">
-  <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/zannatreya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zannatul-binta-bahar//)  
+
+<br>
 
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
