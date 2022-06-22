@@ -1,7 +1,6 @@
 ### Hi there 👋, I'am Zannatul Binta Bahar
-#### Front-end Web Developer
 
-![Profile views](https://gpvc.arturio.dev/zannatreya) 
+#### Front-end Web Developer
 
 
 - 🌱 I’m currently learning NextJs 
@@ -15,6 +14,7 @@
 </p><br/>
 
 
+![Profile views](https://gpvc.arturio.dev/zannatreya) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zannatreya&layout=compact)](https://github.com/zannatreya/github-readme-stats)
 
