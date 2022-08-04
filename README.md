@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning NextJs 
 - 👯 I’m looking to collaborate on  open source projects. 
+📫 How to reach me zannatulbintabahar@yahoo.com
+
 
 
 ## :computer: Technologies that I know
