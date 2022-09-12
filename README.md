@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/zannatreya) 
 
 - 💕 Passionate About Learning
-- 🌱 I’m currently learning NextJs 
+- 🌱 I’m currently learning Redux 
 - 👯 I’m looking to collaborate on  open source projects. 
 - 📫 How to reach me zannatulbintabahar@yahoo.com
 
