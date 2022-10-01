@@ -36,7 +36,7 @@ Mongodb         30 mins          ░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-### If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1yB4F9fkHXxfDM1h9TV5MqoV-waIbCqBU/view?usp=sharing" target="_blank">Resume</a>
+### If you like what I do, take a look at my <a href="https://drive.google.com/file/d/1aT_f0XKvefKu0p7njdsEm0dk8ecqW2GS/view?usp=sharing" target="_blank">Resume</a>
 
 
 
